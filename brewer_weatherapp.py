@@ -76,6 +76,7 @@ class weatherApp(api):
 
 if __name__ == "__main__":
     #Getting this API Key was both harder and easier than I thought it'd be
-    api_key = "a7c47c43a48a26ebab1eb9f5f7deceb8"
+    api_key = "API_KEY HERE"
     #Calling class and sending API Key
+
     weatherApp(api_key)
