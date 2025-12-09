@@ -1,0 +1,1 @@
+The goal of this program is to be a simple framework for adding in further details about the weather, with a demonstrative output that contains only the temperature, but can have other details, including the wind speed, current weather, and so on, all easily added.
